@@ -56,7 +56,7 @@ namespace ConsoleApp11
         }
         public void Reload()
         {
-            NowCap = 30;
+            NowCap = Capacity;
         }
         public string ShowInfo()
         {
